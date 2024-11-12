@@ -1,8 +1,8 @@
-<h1 align="center">Olá, Meu nome e Alexis Daniel</h1>
+<h1 align="center">Olá, meu nome é Alexis Daniel</h1>
 
 ###
 
-<p align="left">Sou paraguaio, mas fui criado no Brasil desde meus 4 anos de idade, nascido no ano de 2004 na capital do Paraguay "Assunção",  gosto de jogos e caminhadas curtas para relaxar, grande parte do tempo suo uma pessoa calma e tranquila, não sou a pessoa mais criativa em minha propria opnião mas sou determinado e aprendo rápido.</p>
+<p align="left">Sou paraguaio, nascido no ano de 2004 na capital do Paraguay "Assunção", mas fui criado no Brasil desde meus 4 anos de idade, gosto de jogos e caminhadas curtas para relaxar, me considero uma pessoa calma e tranquila, não sou a pessoa mais criativa em minha propria opnião mas sou determinado e aprendo rápido.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Linguas Aprendidas</h2>
+<h2 align="left">Linguagens de progamação aprendidas</h2>
 
 ###
 
