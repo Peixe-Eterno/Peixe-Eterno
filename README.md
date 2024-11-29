@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou paraguaio, nascido no ano de 2004 na capital do Paraguay "Assunção", mas fui criado no Brasil desde meus 4 anos de idade, gosto de jogos e caminhadas curtas para relaxar, me considero uma pessoa calma e tranquila, não sou a pessoa mais criativa em minha propria opnião mas sou determinado e aprendo rápido.</p>
+<p align="left">Sou paraguaio, nascido no ano de 2004 na capital do Paraguay "Assunção", mas fui criado no Brasil desde meus 4 anos de idade, gosto de jogos e caminhadas curtas para relaxar, me considero uma pessoa calma, tranquila, determinada e aprendo rápido.</p>
 
 ###
 
@@ -10,7 +10,10 @@
 
 ###
 
-<p align="left">✨ Comecei na área de Analise e Desenvolvimento de Dados no ano de 2023.<br>📚 Atualmente estudo no Instituto Senai Morvan Figueiredo.<br>🎯 Goals:  Meu objetivo e crescer em uma área de trabalho com desafios, então depois de concluir o Senai este ano vou buscar entrar em uma faculdade na área.<br>🎲 Fun fact: Sou jogador de xadrez e particepei em vario torneios pelas escolas nas quais estudei, chegando até a treinar o primeiro time de xadrez escolar de uma das escolas.</p>
+<p align="left">✨ Comecei na área de Analise e Desenvolvimento de Dados no ano de 2023.<br>
+  📚 Atualmente estudo no Instituto Senai Morvan Figueiredo.<br>
+  🎯 Goals:  Meu objetivo e crescer em uma área de trabalho com desafios, então depois de concluir o Senai este ano vou buscar entrar em uma faculdade na área.<br>
+  🎲 Fun fact: Sou jogador de xadrez e particepei em vario torneios pelas escolas nas quais estudei, chegando até a treinar o primeiro time de xadrez escolar de uma das escolas.</p>
 
 ###
 
@@ -31,13 +34,13 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/alexis-daniel-8033511b9" target="_blank">
+  <a href="https://linkedin.com/in/alexis-daniel-8033511b9" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://wa-me/5511987519476" target="_blank">
+  <a href="https://wa.me/5511987519476" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="alexisdanielmatto@gmail.com" target="_blank">
+  <a href="mailto:alexisdanielmatto@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
